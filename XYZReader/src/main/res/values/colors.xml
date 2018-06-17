@@ -1,0 +1,17 @@
+
+
+<resources>
+    <color name="photo_placeholder">#b2ebf2</color>
+
+    <color name="theme_primary">#b2ebf2</color><!-- Cyan -->
+    <color name="theme_primary_dark">#81b9bf</color>
+    <color name="theme_primary_light">#e5ffff</color>
+
+    <color name="theme_accent">#d50000</color><!-- Red -->
+    <color name="theme_accent_dark">#9b0000</color>
+    <color name="theme_accent_light">#ff5131</color>
+
+    <color name="primary_text">#263238</color> <!-- blue grey-->
+    <color name="secondary_text">#ffffff</color>
+    <color name="ltgray">#cfd8dc</color> <!-- blue grey-->
+</resources>
